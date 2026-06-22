@@ -122,8 +122,19 @@ All **17 services** from my portfolio — click to view details, price & order:
 
 ### Let's work together
 
-📧 [nazmulhasan257038@gmail.com](mailto:nazmulhasan257038@gmail.com)  
-📱 [+880 1969-827902](https://wa.me/8801969827902)  
+<a href="mailto:nazmulhasan257038@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="20" height="20" style="vertical-align: middle;" />
+  nazmulhasan257038@gmail.com
+</a>
+
+<br/><br/>
+
+<a href="https://wa.me/8801969827902">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="20" height="20" style="vertical-align: middle;" />
+  +880 1969-827902
+</a>
+
+<br/><br/>
 🇧🇩 Bangladesh · KUET Student  
 
 </div>

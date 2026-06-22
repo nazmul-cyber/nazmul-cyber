@@ -36,7 +36,7 @@
 
 ## About Me
 
-I'm **MD Nazmul Hasan** — an entrepreneur and web developer from Bangladesh. I **own** [Bubu & Dudu BD](https://bubu-dudu.store/) and [Zuomio LLC](https://zuomio.com), build and maintain live e-commerce stores, and deliver **17 professional services** through my portfolio.
+I'm **MD Nazmul Hasan** — an entrepreneur and web developer from Bangladesh. I **own** [Bubu & Dudu BD](https://bubu-dudu.store/) and [Zuomio LLC](https://zuomio.com), build and maintain live e-commerce stores, and deliver **31 professional services** through my portfolio.
 
 - 🏢 **Entrepreneur** — Multi-business owner across US & Bangladesh  
 - 💻 **Web Developer** — React / Vite e-commerce, admin panels, custom websites  
@@ -57,7 +57,7 @@ Live work — visit the sites directly or order services on my portfolio. (`port
 
 | Project | Type | Live Link |
 |:--------|:-----|:----------|
-| **My Portfolio** | Personal Website · 17 Services | [portfolio-eight-red-48.vercel.app](https://portfolio-eight-red-48.vercel.app/) |
+| **My Portfolio** | Personal Website · 31 Services | [portfolio-eight-red-48.vercel.app](https://portfolio-eight-red-48.vercel.app/) |
 | **Zuomio LLC** | Owner · US Store | [zuomio.com](https://zuomio.com) |
 | **Bubu & Dudu BD** | Owner · Bangladesh PWA | [bubu-dudu.store](https://bubu-dudu.store/) |
 | **MediaCube** | Theme Website · Skincare | [mediacube.store](https://mediacube.store) |
@@ -76,25 +76,39 @@ Live work — visit the sites directly or order services on my portfolio. (`port
 
 ## Services Repos
 
-All **17 services** from my portfolio — click to view details, price & order:
+All **31 services** from my portfolio — click to view details, price & order:
 
-- [Web App Development](https://portfolio-eight-red-48.vercel.app/service.html?slug=web-app-development) — from $125
-- [Tailored Website](https://portfolio-eight-red-48.vercel.app/service.html?slug=tailored-website) — from $165
-- [SEO Optimization](https://portfolio-eight-red-48.vercel.app/service.html?slug=seo-optimization) — from $50
-- [Website Speed Fix](https://portfolio-eight-red-48.vercel.app/service.html?slug=website-speed-fix) — from $40
-- [US LLC Formation](https://portfolio-eight-red-48.vercel.app/service.html?slug=us-llc-formation) — from $85
-- [Mercury Bank Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=mercury-bank-setup) — from $65
-- [Stripe Payment Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=stripe-setup) — from $65
-- [Shopify Store Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=shopify-setup) — from $100
-- [E-Commerce Store Build](https://portfolio-eight-red-48.vercel.app/service.html?slug=ecommerce-store-build) — from $125
-- [US Payment Gateway](https://portfolio-eight-red-48.vercel.app/service.html?slug=us-payment-gateway) — from $65
-- [BD Payment Gateway](https://portfolio-eight-red-48.vercel.app/service.html?slug=bd-payment-gateway) — from $40
-- [Digital Marketing](https://portfolio-eight-red-48.vercel.app/service.html?slug=digital-marketing) — from $85
-- [Meta Ads Specialist](https://portfolio-eight-red-48.vercel.app/service.html?slug=meta-ads) — from $75
-- [Google Ads Specialist](https://portfolio-eight-red-48.vercel.app/service.html?slug=google-ads) — from $75
-- [AI Automation](https://portfolio-eight-red-48.vercel.app/service.html?slug=ai-automation) — from $85
-- [Video Editing](https://portfolio-eight-red-48.vercel.app/service.html?slug=video-editing) — from $50
-- [Amazon Business](https://portfolio-eight-red-48.vercel.app/service.html?slug=amazon-business) — from $75
+- [Web App Development](https://portfolio-eight-red-48.vercel.app/service.html?slug=web-app-development) — from ৳15,000
+- [Tailored Website](https://portfolio-eight-red-48.vercel.app/service.html?slug=tailored-website) — from ৳20,000
+- [Full-Stack API Development](https://portfolio-eight-red-48.vercel.app/service.html?slug=fullstack-api-development) — from ৳12,000
+- [Shopify Store Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=shopify-setup) — from ৳12,000
+- [E-Commerce Store Build](https://portfolio-eight-red-48.vercel.app/service.html?slug=ecommerce-store-build) — from ৳15,000
+- [WordPress E-Commerce Store](https://portfolio-eight-red-48.vercel.app/service.html?slug=wordpress-store) — from ৳10,000
+- [PHP Laravel Store](https://portfolio-eight-red-48.vercel.app/service.html?slug=php-laravel-store) — from ৳14,000
+- [SEO Optimization](https://portfolio-eight-red-48.vercel.app/service.html?slug=seo-optimization) — from ৳6,000
+- [Local SEO](https://portfolio-eight-red-48.vercel.app/service.html?slug=local-seo) — from ৳5,500
+- [E-Commerce SEO](https://portfolio-eight-red-48.vercel.app/service.html?slug=ecommerce-seo) — from ৳7,000
+- [Website Speed Fix](https://portfolio-eight-red-48.vercel.app/service.html?slug=website-speed-fix) — from ৳4,500
+- [Core Web Vitals Fix](https://portfolio-eight-red-48.vercel.app/service.html?slug=core-web-vitals-fix) — from ৳5,000
+- [Mobile Page Speed](https://portfolio-eight-red-48.vercel.app/service.html?slug=mobile-page-speed) — from ৳4,000
+- [Digital Marketing](https://portfolio-eight-red-48.vercel.app/service.html?slug=digital-marketing) — from ৳10,000
+- [Meta Ads Specialist](https://portfolio-eight-red-48.vercel.app/service.html?slug=meta-ads) — from ৳9,000
+- [Google Ads Specialist](https://portfolio-eight-red-48.vercel.app/service.html?slug=google-ads) — from ৳9,000
+- [Stripe Payment Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=stripe-setup) — from ৳8,000
+- [US Payment Gateway](https://portfolio-eight-red-48.vercel.app/service.html?slug=us-payment-gateway) — from ৳8,000
+- [BD Payment Gateway](https://portfolio-eight-red-48.vercel.app/service.html?slug=bd-payment-gateway) — from ৳5,000
+- [US LLC Formation](https://portfolio-eight-red-48.vercel.app/service.html?slug=us-llc-formation) — from ৳10,000
+- [Mercury Bank Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=mercury-bank-setup) — from ৳8,000
+- [Payoneer Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=payoneer-setup) — from ৳8,000
+- [EIN Application](https://portfolio-eight-red-48.vercel.app/service.html?slug=ein-application) — from ৳5,000
+- [ITIN Application](https://portfolio-eight-red-48.vercel.app/service.html?slug=itin-application) — from ৳6,000
+- [AI Automation](https://portfolio-eight-red-48.vercel.app/service.html?slug=ai-automation) — from ৳10,000
+- [Video Editing](https://portfolio-eight-red-48.vercel.app/service.html?slug=video-editing) — from ৳6,000
+- [AI Video Making](https://portfolio-eight-red-48.vercel.app/service.html?slug=ai-video-making) — from ৳7,000
+- [Custom AI Video](https://portfolio-eight-red-48.vercel.app/service.html?slug=custom-ai-video) — from ৳9,000
+- [Amazon Business](https://portfolio-eight-red-48.vercel.app/service.html?slug=amazon-business) — from ৳9,000
+- [Amazon PPC Management](https://portfolio-eight-red-48.vercel.app/service.html?slug=amazon-ppc) — from ৳8,500
+- [Amazon SEO](https://portfolio-eight-red-48.vercel.app/service.html?slug=amazon-seo) — from ৳7,500
 
 📋 [View all on portfolio](https://portfolio-eight-red-48.vercel.app/services.html) · 🛒 [Order / Cart](https://portfolio-eight-red-48.vercel.app/order.html)
 
@@ -105,7 +119,7 @@ All **17 services** from my portfolio — click to view details, price & order:
 | Page | Link |
 |:-----|:-----|
 | Home | [portfolio-eight-red-48.vercel.app](https://portfolio-eight-red-48.vercel.app/) |
-| All 17 Services | [services.html](https://portfolio-eight-red-48.vercel.app/services.html) |
+| All 31 Services | [services.html](https://portfolio-eight-red-48.vercel.app/services.html) |
 | Live Projects | [projects.html](https://portfolio-eight-red-48.vercel.app/projects.html) |
 | Why Hire Me | [why-hire.html](https://portfolio-eight-red-48.vercel.app/why-hire.html) |
 | FAQ | [faq.html](https://portfolio-eight-red-48.vercel.app/faq.html) |

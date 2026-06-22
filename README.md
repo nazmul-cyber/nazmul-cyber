@@ -96,9 +96,4 @@ All **17 services** from my portfolio — click to view details, price & order:
 📱 [+880 1969-827902](https://wa.me/8801969827902)  
 🇧🇩 Bangladesh · KUET Student  
 
-[![Zuomio](https://img.shields.io/badge/Zuomio-zuomio.com-1e3a5f?style=flat-square)](https://zuomio.com)
-[![Bubu Dudu](https://img.shields.io/badge/Bubu_%26_Dudu-bubu--dudu.store-ff6b9d?style=flat-square)](https://bubu-dudu.store/)
-[![MediaCube](https://img.shields.io/badge/MediaCube-mediacube.store-e91e63?style=flat-square)](https://mediacube.store)
-[![Arafat LLC](https://img.shields.io/badge/Arafat-arafatllc.shop-8B4513?style=flat-square)](https://arafatllc.shop)
-
 </div>

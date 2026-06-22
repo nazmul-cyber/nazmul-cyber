@@ -24,7 +24,7 @@ $6,000+ revenue · Owner of **Bubu & Dudu BD** & **Zuomio LLC**
 - 🔍 **SEO Specialist** — on-page SEO, sitemaps, Search Console
 - ⚡ **Speed Optimization** — PageSpeed / Lighthouse / Core Web Vitals
 - 💳 **Payment Gateways** — US (Stripe/PayPal) & BD (COD/bKash/SSLCommerz)
-- 💰 **$6,000+** total income from stores & client services
+- 💰 **$16,000+** total income from stores & client services
 
 ---
 
@@ -34,9 +34,9 @@ $6,000+ revenue · Owner of **Bubu & Dudu BD** & **Zuomio LLC**
 |---------|------|------|
 | Bubu & Dudu BD | **Owner** | [bubu-dudu.store](https://bubu-dudu.store/) |
 | Zuomio (Multi-niche US) | **Owner** | [zuomio.vercel.app](https://zuomio.vercel.app) |
-| Arafat LLC (Luxury Leather) | Built & Maintained | [arafatllc.shop](https://arafatllc.shop) |
-| MediaCube (Medicube) | Built & Maintained | [mediacube.vercel.app](https://mediacube.vercel.app) |
-| Lumiere Beauty | Built & Maintained | [lumiere-beauty-five.vercel.app](https://lumiere-beauty-five.vercel.app) |
+| Arafat LLC (Theme Luxury Leather) | Built & Maintained | [arafatllc.shop](https://arafatllc.shop) |
+| MediaCube (Theme niche) | Built & Maintained | [mediacube.vercel.app](https://mediacube.vercel.app) |
+| Lumiere Beauty(Theme Beauty) | Built & Maintained | [lumiere-beauty-five.vercel.app](https://lumiere-beauty-five.vercel.app) |
 
 ---
 

@@ -1,38 +1,30 @@
 <div align="center">
 
-<img src="https://portfolio-eight-red-48.vercel.app/assets/logo-mark.png?v=2" alt="MD Nazmul Hasan" width="100" />
+<div style="max-width: 680px; margin: 0 auto; padding: 28px 24px 24px; border-radius: 16px; background: linear-gradient(180deg, #f8fafc 0%, #ffffff 100%); border: 1px solid #e2e8f0; font-family: 'Segoe UI', system-ui, sans-serif;">
 
-# MD Nazmul Hasan
+<img src="https://portfolio-eight-red-48.vercel.app/assets/logo-mark.png?v=2" alt="MD Nazmul Hasan" width="88" style="margin-bottom: 12px;" />
 
-<p>
-  <strong>Web Developer · Entrepreneur · SEO Specialist · Digital Marketer</strong>
+<h1 style="margin: 0 0 8px; font-size: 1.75rem; font-weight: 700; color: #0f172a; letter-spacing: -0.02em;">MD Nazmul Hasan</h1>
+
+<p style="margin: 0 0 6px; font-size: 0.95rem; font-weight: 600; color: #334155;">Web Developer · Entrepreneur · SEO Specialist · Digital Marketer</p>
+
+<p style="margin: 0 0 18px; font-size: 0.8rem; color: #64748b;">KUET · Energy Science & Engineering · Bangladesh</p>
+
+<a href="https://portfolio-eight-red-48.vercel.app/" style="display: inline-block; padding: 10px 18px; margin: 4px; background: #2563eb; color: #ffffff; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.88rem;">
+<img src="https://cdn.simpleicons.org/googlechrome/ffffff" alt="" width="16" height="16" style="vertical-align: middle; margin-right: 6px;" />Portfolio
+</a>
+<a href="https://portfolio-eight-red-48.vercel.app/assets/md-nazmul-hasan-resume.pdf" style="display: inline-block; padding: 10px 18px; margin: 4px; background: #0d9488; color: #ffffff; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.88rem;">
+<img src="https://cdn.simpleicons.org/googledocs/ffffff" alt="" width="16" height="16" style="vertical-align: middle; margin-right: 6px;" />Resume
+</a>
+<a href="https://www.linkedin.com/in/nazmul-hasan-619565291/" style="display: inline-block; padding: 10px 18px; margin: 4px; background: #0A66C2; color: #ffffff; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.88rem;">
+<img src="https://cdn.simpleicons.org/linkedin/ffffff" alt="" width="16" height="16" style="vertical-align: middle; margin-right: 6px;" />Contact
+</a>
+
+<p style="margin: 18px 0 0; font-size: 0.82rem; color: #475569; line-height: 1.6;">
+<strong style="color: #0f172a;">3000+</strong> Happy Customers · <strong style="color: #0f172a;">4+</strong> Years · <strong style="color: #0f172a;">200+</strong> Live Stores · <strong style="color: #0f172a;">$16,000+</strong> Revenue
 </p>
 
-<p>
-  <sub>KUET · Energy Science & Engineering · Bangladesh</sub>
-</p>
-
-<br/>
-
-<p>
-  <a href="https://portfolio-eight-red-48.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://portfolio-eight-red-48.vercel.app/assets/md-nazmul-hasan-resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-Open_PDF-0d9488?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/nazmul-hasan-619565291/">
-    <img src="https://img.shields.io/badge/Contact-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact on LinkedIn" />
-  </a>
-</p>
-
-<br/>
-
-<p>
-  <strong>3000+ Happy Customers</strong> · <strong>4+ Years</strong> · <strong>200+ Live Stores</strong> · <strong>Revenue $16,000+</strong>
-</p>
+</div>
 
 </div>
 
@@ -120,21 +112,24 @@ All **17 services** from my portfolio — click to view details, price & order:
 
 <div align="center">
 
-### Let's work together
+<div style="max-width: 480px; margin: 0 auto; padding: 20px 20px 16px; border-radius: 12px; background: #f8fafc; border: 1px solid #e2e8f0; font-family: 'Segoe UI', system-ui, sans-serif;">
 
-<a href="mailto:nazmulhasan257038@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="20" height="20" style="vertical-align: middle;" />
-  nazmulhasan257038@gmail.com
+<h3 style="margin: 0 0 10px; font-size: 1.1rem; font-weight: 600; color: #0f172a;">Let's work together</h3>
+
+<p style="margin: 4px 0; font-size: 0.9rem;">
+<a href="mailto:nazmulhasan257038@gmail.com" style="color: #2563eb; text-decoration: none;">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="18" height="18" style="vertical-align: middle; margin-right: 6px;" />nazmulhasan257038@gmail.com
 </a>
+</p>
 
-<br/><br/>
-
-<a href="https://wa.me/8801969827902">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="20" height="20" style="vertical-align: middle;" />
-  +880 1969-827902
+<p style="margin: 4px 0; font-size: 0.9rem;">
+<a href="https://wa.me/8801969827902" style="color: #2563eb; text-decoration: none;">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="18" height="18" style="vertical-align: middle; margin-right: 6px;" />+880 1969-827902
 </a>
+</p>
 
-<br/><br/>
-Energy Science and Engineering, KUET
+<p style="margin: 10px 0 0; font-size: 0.8rem; color: #64748b;">Energy Science and Engineering, KUET</p>
+
+</div>
 
 </div>

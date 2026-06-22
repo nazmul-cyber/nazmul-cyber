@@ -35,7 +35,7 @@ I'm **MD Nazmul Hasan** — an entrepreneur and web developer from Bangladesh. I
 
 ## Projects
 
-Live work — not GitHub repos. Visit the sites directly or order services on my portfolio.
+Live work — visit the sites directly or order services on my portfolio. (`portfolio` and `bubu-dudu-store` repos are archived; links below are the live sites.)
 
 ### Websites & Stores
 

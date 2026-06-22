@@ -9,6 +9,8 @@
 KUET · Energy Science & Engineering · Bangladesh
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Order_Services-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-eight-red-48.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-1e40af?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://portfolio-eight-red-48.vercel.app/assets/md-nazmul-hasan-resume.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-nazmul--cyber-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nazmul-cyber)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801969827902?text=Hi%20Nazmul%2C%20I%20want%20to%20discuss%20a%20project)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmul-hasan-619565291/)
 

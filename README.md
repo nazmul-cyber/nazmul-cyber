@@ -1,20 +1,38 @@
 <div align="center">
 
-<img src="https://portfolio-eight-red-48.vercel.app/assets/logo-mark.png?v=2" alt="MD Nazmul Hasan" width="120" />
+<img src="https://portfolio-eight-red-48.vercel.app/assets/logo-mark.png?v=2" alt="MD Nazmul Hasan" width="100" />
 
 # MD Nazmul Hasan
 
-**Web Developer · Entrepreneur · SEO Specialist · Digital Marketer**
+<p>
+  <strong>Web Developer · Entrepreneur · SEO Specialist · Digital Marketer</strong>
+</p>
 
-KUET · Energy Science & Engineering · Bangladesh
+<p>
+  <sub>KUET · Energy Science & Engineering · Bangladesh</sub>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Order_Services-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-eight-red-48.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-View_PDF-1e40af?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://portfolio-eight-red-48.vercel.app/assets/md-nazmul-hasan-resume.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-nazmul--cyber-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nazmul-cyber)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801969827902?text=Hi%20Nazmul%2C%20I%20want%20to%20discuss%20a%20project)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmul-hasan-619565291/)
+<br/>
 
-**3000+ Happy Customers · 4+ Years · 200+ Live Stores · Revenue $16,000+**
+<p>
+  <a href="https://portfolio-eight-red-48.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-eight-red-48.vercel.app/assets/md-nazmul-hasan-resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Open_PDF-0d9488?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nazmul-hasan-619565291/">
+    <img src="https://img.shields.io/badge/Contact-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact on LinkedIn" />
+  </a>
+</p>
+
+<br/>
+
+<p>
+  <strong>3000+ Happy Customers</strong> · <strong>4+ Years</strong> · <strong>200+ Live Stores</strong> · <strong>Revenue $16,000+</strong>
+</p>
 
 </div>
 

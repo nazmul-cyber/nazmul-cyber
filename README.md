@@ -135,6 +135,6 @@ All **17 services** from my portfolio — click to view details, price & order:
 </a>
 
 <br/><br/>
-🇧🇩 Bangladesh · KUET Student  
+Energy Science and Engineering, KUET
 
 </div>

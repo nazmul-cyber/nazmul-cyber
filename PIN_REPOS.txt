@@ -1,0 +1,21 @@
+=== GITHUB PINNED REPOS — nazmul-cyber ===
+
+Go to: https://github.com/nazmul-cyber
+Click "Customize your pins"
+
+REMOVE from pins (show in Projects section instead):
+  X portfolio
+  X bubu-dudu-store
+
+PIN these (service / store repos):
+  ✓ web-app-development
+  ✓ seo-optimization-services
+  ✓ website-speed-optimization
+  ✓ payment-gateway-integration
+  ✓ shopify-store-services
+  ✓ us-llc-formation
+  ✓ digital-marketing-services
+  ✓ zuomio-store
+  ✓ pv-panel-simulation
+
+Portfolio + Bubu Dudu live links are in README → Projects section.

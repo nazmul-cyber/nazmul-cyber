@@ -33,18 +33,28 @@ I'm **MD Nazmul Hasan** — an entrepreneur and web developer from Bangladesh. I
 
 ---
 
-## Live Projects
+## Projects
 
-| Project | Type | Link |
-|:--------|:-----|:-----|
+Live work — not GitHub repos. Visit the sites directly or order services on my portfolio.
+
+### Websites & Stores
+
+| Project | Type | Live Link |
+|:--------|:-----|:----------|
+| **My Portfolio** | Personal Website · 17 Services | [portfolio-eight-red-48.vercel.app](https://portfolio-eight-red-48.vercel.app/) |
 | **Zuomio LLC** | Owner · US Store | [zuomio.com](https://zuomio.com) |
 | **Bubu & Dudu BD** | Owner · Bangladesh PWA | [bubu-dudu.store](https://bubu-dudu.store/) |
 | **MediaCube** | Theme Website · Skincare | [mediacube.store](https://mediacube.store) |
 | **Lumiere Beauty** | Theme Website · Luxury Beauty | [lumiere-beauty-five.vercel.app](https://lumiere-beauty-five.vercel.app) |
 | **Arafat LLC** | Theme Website · Leather | [arafatllc.shop](https://arafatllc.shop) |
-| **PV Panel Simulation** | Desktop Software · KUET | [GitHub](https://github.com/nazmul-cyber/pv-panel-simulation) |
 
-📂 [All live projects on portfolio](https://portfolio-eight-red-48.vercel.app/projects.html)
+### Software
+
+| Project | Stack | Links |
+|:--------|:------|:------|
+| **PV Panel Simulation** | PyQt6 · Python · KUET v1.0.0 | [GitHub](https://github.com/nazmul-cyber/pv-panel-simulation) · [Download EXE](https://github.com/nazmul-cyber/pv-panel-simulation/releases/download/v1.0.0/PV_Panel_Simulation_Setup.exe) |
+
+📂 [Full projects page](https://portfolio-eight-red-48.vercel.app/projects.html)
 
 ---
 

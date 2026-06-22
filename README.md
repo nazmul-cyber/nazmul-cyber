@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://portfolio-eight-red-48.vercel.app/assets/logo.png" alt="NAZMUL" width="220" />
+<img src="https://portfolio-eight-red-48.vercel.app/assets/logo-mark.png?v=2" alt="MD Nazmul Hasan" width="120" />
 
 # MD Nazmul Hasan
 

@@ -10,15 +10,19 @@
 
 <p style="margin: 0 0 18px; font-size: 0.8rem; color: #64748b;">KUET · Energy Science & Engineering · Bangladesh</p>
 
-<a href="https://portfolio-eight-red-48.vercel.app/" style="display: inline-block; padding: 10px 18px; margin: 4px; background: #2563eb; color: #ffffff; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.88rem;">
-<img src="https://cdn.simpleicons.org/googlechrome/ffffff" alt="" width="16" height="16" style="vertical-align: middle; margin-right: 6px;" />Portfolio
-</a>
-<a href="https://portfolio-eight-red-48.vercel.app/assets/md-nazmul-hasan-resume.pdf" style="display: inline-block; padding: 10px 18px; margin: 4px; background: #0d9488; color: #ffffff; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.88rem;">
-<img src="https://cdn.simpleicons.org/googledocs/ffffff" alt="" width="16" height="16" style="vertical-align: middle; margin-right: 6px;" />Resume
-</a>
-<a href="https://www.linkedin.com/in/nazmul-hasan-619565291/" style="display: inline-block; padding: 10px 18px; margin: 4px; background: #0A66C2; color: #ffffff; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.88rem;">
-<img src="https://cdn.simpleicons.org/linkedin/ffffff" alt="" width="16" height="16" style="vertical-align: middle; margin-right: 6px;" />Contact
-</a>
+<table align="center" cellspacing="8" cellpadding="0">
+  <tr>
+    <td align="center" bgcolor="#2563eb" style="border-radius: 8px; padding: 10px 22px;">
+      <a href="https://portfolio-eight-red-48.vercel.app/" style="color: #ffffff; text-decoration: none; font-weight: 700; font-family: Segoe UI, system-ui, sans-serif; font-size: 14px;">Portfolio</a>
+    </td>
+    <td align="center" bgcolor="#0d9488" style="border-radius: 8px; padding: 10px 22px;">
+      <a href="https://portfolio-eight-red-48.vercel.app/assets/md-nazmul-hasan-resume.pdf" style="color: #ffffff; text-decoration: none; font-weight: 700; font-family: Segoe UI, system-ui, sans-serif; font-size: 14px;">Resume</a>
+    </td>
+    <td align="center" bgcolor="#0A66C2" style="border-radius: 8px; padding: 10px 22px;">
+      <a href="https://www.linkedin.com/in/nazmul-hasan-619565291/" style="color: #ffffff; text-decoration: none; font-weight: 700; font-family: Segoe UI, system-ui, sans-serif; font-size: 14px;">Contact</a>
+    </td>
+  </tr>
+</table>
 
 <p style="margin: 18px 0 0; font-size: 0.82rem; color: #475569; line-height: 1.6;">
 <strong style="color: #0f172a;">3000+</strong> Happy Customers · <strong style="color: #0f172a;">4+</strong> Years · <strong style="color: #0f172a;">200+</strong> Live Stores · <strong style="color: #0f172a;">$16,000+</strong> Revenue

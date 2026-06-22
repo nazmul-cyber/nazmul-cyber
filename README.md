@@ -52,23 +52,23 @@ I'm **MD Nazmul Hasan** — an entrepreneur and web developer from Bangladesh. I
 
 All **17 services** from my portfolio — click to view details, price & order:
 
-- [Web App Development](https://portfolio-eight-red-48.vercel.app/service.html?slug=web-app-development) — from ৳15,000
-- [Tailored Website](https://portfolio-eight-red-48.vercel.app/service.html?slug=tailored-website) — from ৳20,000
-- [SEO Optimization](https://portfolio-eight-red-48.vercel.app/service.html?slug=seo-optimization) — from ৳6,000
-- [Website Speed Fix](https://portfolio-eight-red-48.vercel.app/service.html?slug=website-speed-fix) — from ৳4,500
-- [US LLC Formation](https://portfolio-eight-red-48.vercel.app/service.html?slug=us-llc-formation) — from ৳10,000
-- [Mercury Bank Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=mercury-bank-setup) — from ৳8,000
-- [Stripe Payment Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=stripe-setup) — from ৳8,000
-- [Shopify Store Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=shopify-setup) — from ৳12,000
-- [E-Commerce Store Build](https://portfolio-eight-red-48.vercel.app/service.html?slug=ecommerce-store-build) — from ৳15,000
-- [US Payment Gateway](https://portfolio-eight-red-48.vercel.app/service.html?slug=us-payment-gateway) — from ৳8,000
-- [BD Payment Gateway](https://portfolio-eight-red-48.vercel.app/service.html?slug=bd-payment-gateway) — from ৳5,000
-- [Digital Marketing](https://portfolio-eight-red-48.vercel.app/service.html?slug=digital-marketing) — from ৳10,000
-- [Meta Ads Specialist](https://portfolio-eight-red-48.vercel.app/service.html?slug=meta-ads) — from ৳9,000
-- [Google Ads Specialist](https://portfolio-eight-red-48.vercel.app/service.html?slug=google-ads) — from ৳9,000
-- [AI Automation](https://portfolio-eight-red-48.vercel.app/service.html?slug=ai-automation) — from ৳10,000
-- [Video Editing](https://portfolio-eight-red-48.vercel.app/service.html?slug=video-editing) — from ৳6,000
-- [Amazon Business](https://portfolio-eight-red-48.vercel.app/service.html?slug=amazon-business) — from ৳9,000
+- [Web App Development](https://portfolio-eight-red-48.vercel.app/service.html?slug=web-app-development) — from $125
+- [Tailored Website](https://portfolio-eight-red-48.vercel.app/service.html?slug=tailored-website) — from $165
+- [SEO Optimization](https://portfolio-eight-red-48.vercel.app/service.html?slug=seo-optimization) — from $50
+- [Website Speed Fix](https://portfolio-eight-red-48.vercel.app/service.html?slug=website-speed-fix) — from $40
+- [US LLC Formation](https://portfolio-eight-red-48.vercel.app/service.html?slug=us-llc-formation) — from $85
+- [Mercury Bank Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=mercury-bank-setup) — from $65
+- [Stripe Payment Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=stripe-setup) — from $65
+- [Shopify Store Setup](https://portfolio-eight-red-48.vercel.app/service.html?slug=shopify-setup) — from $100
+- [E-Commerce Store Build](https://portfolio-eight-red-48.vercel.app/service.html?slug=ecommerce-store-build) — from $125
+- [US Payment Gateway](https://portfolio-eight-red-48.vercel.app/service.html?slug=us-payment-gateway) — from $65
+- [BD Payment Gateway](https://portfolio-eight-red-48.vercel.app/service.html?slug=bd-payment-gateway) — from $40
+- [Digital Marketing](https://portfolio-eight-red-48.vercel.app/service.html?slug=digital-marketing) — from $85
+- [Meta Ads Specialist](https://portfolio-eight-red-48.vercel.app/service.html?slug=meta-ads) — from $75
+- [Google Ads Specialist](https://portfolio-eight-red-48.vercel.app/service.html?slug=google-ads) — from $75
+- [AI Automation](https://portfolio-eight-red-48.vercel.app/service.html?slug=ai-automation) — from $85
+- [Video Editing](https://portfolio-eight-red-48.vercel.app/service.html?slug=video-editing) — from $50
+- [Amazon Business](https://portfolio-eight-red-48.vercel.app/service.html?slug=amazon-business) — from $75
 
 📋 [View all on portfolio](https://portfolio-eight-red-48.vercel.app/services.html) · 🛒 [Order / Cart](https://portfolio-eight-red-48.vercel.app/order.html)
 
